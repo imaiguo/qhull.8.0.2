@@ -40,6 +40,9 @@ build/*/Release/*
 build/*/Debug/*
 build/*/MinSizeRel/*
 build/*/RelWithDebInfo/*
+build/.ninja_deps
+build/.ninja_log
+build/build.ninja
 libq
 *.a
 *.autosave
@@ -71,4 +74,3 @@ CVS/*
 
 # Other files
 working/
-
